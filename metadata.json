@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Hub",
+  "description": "A complete school management and communication platform connecting Students, Teachers, Principal, Sports Staff, and Owner through secure panels, social IDs, request-based controls, chats, leaderboards, notebooks, and finance modules for Ramanujan Public School.",
+  "requestFramePermissions": []
+}
